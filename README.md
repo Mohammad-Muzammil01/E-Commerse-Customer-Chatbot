@@ -10,7 +10,7 @@ This project is a **Customer Support Chatbot** built for an **E-commerce Clothin
 
 ## 📁 Project Structure
 
-Think41-Coding/
+E-Commerce Customer Chatbot/
 ├── backend/
 │ └── app.py
 │ └── orders.csv
@@ -75,6 +75,7 @@ Pandas
 HTML/CSS
 
 Git & GitHub
+
 
 
 
