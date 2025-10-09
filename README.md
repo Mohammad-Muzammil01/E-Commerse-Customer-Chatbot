@@ -1,4 +1,4 @@
-# 🛍️ Think41-Coding — E-Commerce Customer Support Chatbot
+# 🛍️  E-Commerce Customer Support Chatbot
 
 This project is a **Customer Support Chatbot** built for an **E-commerce Clothing Site**. It integrates a backend service, frontend UI, and uses datasets to answer common user queries like:
 
@@ -75,6 +75,7 @@ Pandas
 HTML/CSS
 
 Git & GitHub
+
 
 
 
